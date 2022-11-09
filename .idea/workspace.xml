@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4402c774-ce87-4b3a-9788-cf0fd2fd2ade" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejec9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayBidimencionalDeEnteros/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayListDeStringCopiaLinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayUnidirecionalDeString/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CadenaInvertida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejecicio9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/destino.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicioIputStreamYPrintStream/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/excepcionesConThrowsDividePorCero/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vectorCon5elementos/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GsZ7E7e0py62jeewoo0zQxcFwZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Ejecicio9.Main">
+    <configuration name="ArrayListDeStringCopiaLinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListDeStringCopiaLinkedList.Main" />
+      <module name="Ejec9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayListDeStringCopiaLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejecicio9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejecicio9.Main" />
+      <module name="Ejec9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejecicio9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayUnidirecionalDeString.Main" />
+      <module name="Ejec9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayUnidirecionalDeString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicioIputStreamYPrintStream.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicioIputStreamYPrintStream.Main" />
+      <module name="Ejec9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicioIputStreamYPrintStream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="excepcionesConThrowsDividePorCero.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excepcionesConThrowsDividePorCero.Main" />
+      <module name="Ejec9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excepcionesConThrowsDividePorCero.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ejecicio9.Main" />
+        <item itemvalue="Application.ejercicioIputStreamYPrintStream.Main" />
+        <item itemvalue="Application.excepcionesConThrowsDividePorCero.Main" />
+        <item itemvalue="Application.ArrayListDeStringCopiaLinkedList.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4402c774-ce87-4b3a-9788-cf0fd2fd2ade" name="Changes" comment="" />
+      <created>1667179086770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667179086770</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="bujjj" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
